@@ -3,6 +3,15 @@
     <channel>
         <title>Scribe</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sat, 12 Sep 2026 10:29:12 +0200</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/inextasia/scribe-releases/releases/download/v1.1/Scribe-1.1.dmg" length="3179078" type="application/octet-stream" sparkle:edSignature="lhlkvAKJcX1mGtnUWtYnyoGUJBrEjogPTqxIyBJri6tGlc2lovSdAOKpshaQy2D/JEwQCBDeg2Zj8rhIqp4JAA=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Fri, 11 Sep 2026 21:52:54 +0200</pubDate>
             <sparkle:version>54</sparkle:version>
